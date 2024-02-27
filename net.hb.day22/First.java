@@ -2,7 +2,7 @@ package net.hb.day22;
 
 public class First {
 	public static void main(String[] args) {
-		String name = "김자바"  ;
+		String name = "이자바"  ;
 		int age = 23 ;
 		char grade = 'B' ;
 		System.out.println("이름 : " + name);
